@@ -1,6 +1,4 @@
-# [React App boilerplate](https://frontend-chat-ru.hexlet.app)
-
-It's an example of a customized react-project with a backend-server. You can copy it to start developing chat project.
+# [Hexlet chat app](https://frontend-project-12-p5h3.onrender.com)
 
 ## Requirements
 
@@ -12,15 +10,12 @@ It's an example of a customized react-project with a backend-server. You can cop
 make install
 ```
 
+```bash
+make build
+```
+
 ## Development
 
 ```bash
-make develop
+make start
 ```
-On *localhost:3000*
-
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=react-application)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=react-application).
-
-See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
